@@ -59,9 +59,6 @@ export const ReducerCounterHooks: React.FC = () => {
       <Link className="link" to="/multiple-counter-hooks">
         prev example (multiple counters with hooks)
       </Link>
-      <Link className="link" to="/effects">
-        next example (effects)
-      </Link>
     </div>
   );
 };
