@@ -1,0 +1,12 @@
+.counter__container {
+  margin: 0 auto;
+  width: 50%;
+}
+.counter__container .link {
+  display: inline-block;
+  margin-top: 2rem;
+  margin-right: 1rem;
+}
+.counter__box {
+  margin-bottom: 3rem;
+}
